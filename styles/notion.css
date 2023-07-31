@@ -77,7 +77,7 @@
 }
 
 .notion-collection-card {
-  border-radius: 16px;
+  border-radius: 2px;
   box-shadow: none;
 }
 
@@ -389,4 +389,7 @@
 }
 .notion-block-31d7eecf6465438da4836c34a0f63eb5{
   align-content: center !important;
+}
+.notion-property-multi_select-item, .notion-property-select-item{
+
 }
