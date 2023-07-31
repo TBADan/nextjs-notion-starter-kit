@@ -394,10 +394,7 @@
 
 }
 
-.notion-property-multi_select{
+.notion-item-purple{
   background-color: none;
-  border-color: red;
-  border-width: 1px;
-  border-style: solid;
-
+  border: 1px solid red;
 }
